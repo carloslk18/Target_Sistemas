@@ -25,3 +25,4 @@ class Q05{
         Console.WriteLine("String invertida: {0}", res);
     }
 }
+ 
