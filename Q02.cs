@@ -1,4 +1,5 @@
 using System;
+
 //Questão 02
 class Q02{
     static void Main(){

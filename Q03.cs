@@ -1,11 +1,10 @@
-//Questao 03
-//Para instalar o pacote Newtonsoft > Install-Package Newtonsoft.Json
-
 using System;
 using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 using System.Linq;
+//Questao 03
+//Para instalar o pacote Newtonsoft > Install-Package Newtonsoft.Json
 
 class Q03{
     static void Main(){
