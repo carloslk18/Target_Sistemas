@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Target_Sistemas.csproj": {}
+    "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Hotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Target_Sistemas.csproj": {
+    "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Target_Sistemas.csproj",
-        "projectName": "Target_Sistemas",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Target_Sistemas.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Hotel.csproj",
+        "projectName": "Hotel",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\Hotel.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\carlo\\Desktop\\GG\\C#\\Hotel\\obj\\",
         "projectStyle": "PackageReference",
